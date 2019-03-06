@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatroomFirebase</string>
+    <string name="email">Email</string>
+    <string name="pswd">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="rPswd">Repeat Password</string>
+    <string name="msgSend">Type message to send...</string>
+    <string name="cancel">Cancel</string>
+    <string name="Upload">Uploading Picture...</string>
+</resources>
